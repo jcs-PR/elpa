@@ -587,10 +587,10 @@
   {
     "name": "eask",
     "summary": "Core Eask APIs, for Eask CLI development",
-    "version": "20260115.1342",
+    "version": "20260117.1610",
     "url": "https://github.com/emacs-eask/eask",
     "source": "github",
-    "commit": "d5e665fcc63af17bf2177ecc371dda1f999788aa",
+    "commit": "e8857600be6b9c3e40edbff6fd56fcfbc6286679",
     "tree": "https://github.com/emacs-eask/eask"
   },
   {
@@ -1568,10 +1568,10 @@
   {
     "name": "nerd-icons",
     "summary": "Emacs Nerd Font Icons Library",
-    "version": "20260116.1608",
+    "version": "20260117.1631",
     "url": "https://github.com/rainstormstudio/nerd-icons.el",
     "source": "github",
-    "commit": "f9d240b59f9a5461d98a2eeac25901a5ce6c72e9",
+    "commit": "14b9fb4b48a08806836bc93f09cf44565aa9f152",
     "tree": "https://github.com/rainstormstudio/nerd-icons.el"
   },
   {
@@ -2099,10 +2099,10 @@
   {
     "name": "tree-sitter-langs",
     "summary": "Grammar bundle for tree-sitter",
-    "version": "20260117.1333",
+    "version": "20260117.1458",
     "url": "https://github.com/emacs-tree-sitter/tree-sitter-langs",
     "source": "github",
-    "commit": "44e9ff58eca2ea04b2d948d27f29fc3f7d6765d8",
+    "commit": "22467a4b479e5528331d1283653977edcd2037a5",
     "tree": "https://github.com/emacs-tree-sitter/tree-sitter-langs"
   },
   {
@@ -2126,19 +2126,19 @@
   {
     "name": "treesit-fold",
     "summary": "Code folding using treesit",
-    "version": "20260114.321",
+    "version": "20260117.1600",
     "url": "https://github.com/emacs-tree-sitter/treesit-fold",
     "source": "github",
-    "commit": "bfc2f7b7d04fc903bcc0b4b3f0804da8c97a9b1e",
+    "commit": "058c57c42f3c1e67c924b908dcbc127450d7f24f",
     "tree": "https://github.com/emacs-tree-sitter/treesit-fold"
   },
   {
     "name": "treesit-langs",
     "summary": "Language bundle for Emacs's treesit.el",
-    "version": "20260116.404",
+    "version": "20260117.1612",
     "url": "https://github.com/emacs-tree-sitter/treesit-langs",
     "source": "github",
-    "commit": "6d0da94e0a04545417a9f921f5343a9c05c175bf",
+    "commit": "dde0df61d93e71a8e62c8d9fb9041ffd39c86884",
     "tree": "https://github.com/emacs-tree-sitter/treesit-langs"
   },
   {
@@ -2153,10 +2153,10 @@
   {
     "name": "ts-fold",
     "summary": "Code folding using tree-sitter",
-    "version": "20260114.321",
+    "version": "20260117.1600",
     "url": "https://github.com/emacs-tree-sitter/ts-fold",
     "source": "github",
-    "commit": "aa6e899a3bad569c61f425ce2fd61bb5cc2dc5c2",
+    "commit": "6429216435ee5c673e2226efef9c2eea30c78aa9",
     "tree": "https://github.com/emacs-tree-sitter/ts-fold"
   },
   {
