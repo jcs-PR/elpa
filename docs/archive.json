@@ -1352,10 +1352,10 @@
   {
     "name": "llm",
     "summary": "Interface to pluggable llm backends",
-    "version": "20260124.220",
+    "version": "20260124.1515",
     "url": "https://github.com/ahyatt/llm",
     "source": "github",
-    "commit": "0bd5c4da403cc0d394816684acb2f1cd8c180df5",
+    "commit": "ee26766b72f34057d798d0ecad012a7b91772570",
     "tree": "https://github.com/ahyatt/llm"
   },
   {
@@ -1433,10 +1433,10 @@
   {
     "name": "lsp-smart-req",
     "summary": "Lazy load LSP packages",
-    "version": "20260112.1442",
+    "version": "20260124.1436",
     "url": "https://github.com/jcs-elpa/lsp-smart-req",
     "source": "github",
-    "commit": "9103edc4914d3786b56df443627010b0c8633bdd",
+    "commit": "dcfee965f71b1f264870cfb7ea97d092c8b9747d",
     "tree": "https://github.com/jcs-elpa/lsp-smart-req"
   },
   {
