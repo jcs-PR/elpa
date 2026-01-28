@@ -155,10 +155,10 @@
   {
     "name": "centaur-tabs",
     "summary": "Aesthetic, modern looking customizable tabs plugin",
-    "version": "20260115.2125",
+    "version": "20260128.950",
     "url": "https://github.com/ema2159/centaur-tabs",
     "source": "github",
-    "commit": "5ad22d9a6a5d056a07f08b6fe6253f2a71f94ad8",
+    "commit": "5ec350da6cacc34ac0efaac17d6ac5031ef82bd4",
     "tree": "https://github.com/ema2159/centaur-tabs"
   },
   {
@@ -1163,10 +1163,10 @@
   {
     "name": "indent-control",
     "summary": "Management for indentation level",
-    "version": "20260127.1637",
+    "version": "20260128.1027",
     "url": "https://github.com/jcs-elpa/indent-control",
     "source": "github",
-    "commit": "0fb35b8001ce286e700b5c1d5682a7433e53335e",
+    "commit": "8bd4a44c2ae51f781bc3b86f09869f71343ca1ff",
     "tree": "https://github.com/jcs-elpa/indent-control"
   },
   {
@@ -1253,10 +1253,10 @@
   {
     "name": "jcs-modeline",
     "summary": "A modeline for jcs-emacs",
-    "version": "20260128.745",
+    "version": "20260128.939",
     "url": "https://github.com/jcs-emacs/jcs-modeline",
     "source": "github",
-    "commit": "d550d93efed5e6253a5336b11b6c69075aa346fb",
+    "commit": "663a821439bb0766a7817459d72f3d00d13351c0",
     "tree": "https://github.com/jcs-emacs/jcs-modeline"
   },
   {
