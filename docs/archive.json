@@ -1064,19 +1064,19 @@
   {
     "name": "goto-char-preview",
     "summary": "Preview character when executing `goto-char` command",
-    "version": "20260101.549",
+    "version": "20260128.834",
     "url": "https://github.com/emacs-vs/goto-char-preview",
     "source": "github",
-    "commit": "b78fa6419466984b97459e95ffb77f3e9ae10a09",
+    "commit": "e2a4534e2632e40d0f8042c9804047875bc59e91",
     "tree": "https://github.com/emacs-vs/goto-char-preview"
   },
   {
     "name": "goto-line-preview",
     "summary": "Preview line when executing `goto-line` command",
-    "version": "20260101.549",
+    "version": "20260128.834",
     "url": "https://github.com/emacs-vs/goto-line-preview",
     "source": "github",
-    "commit": "ccc3c361da93f5bd44d697d22482f52fab735860",
+    "commit": "e11a1e7bfff5240e44d71d2ff8fae2d5bcbda784",
     "tree": "https://github.com/emacs-vs/goto-line-preview"
   },
   {
@@ -1235,10 +1235,10 @@
   {
     "name": "jcs-echobar",
     "summary": "An echo-bar for jcs-emacs",
-    "version": "20260128.657",
+    "version": "20260128.745",
     "url": "https://github.com/jcs-emacs/jcs-echobar",
     "source": "github",
-    "commit": "82fc248bac7c83f94e06cf2e81efc3c18f453213",
+    "commit": "c591041b81db465654b9bcb9cc68bc74f827399a",
     "tree": "https://github.com/jcs-emacs/jcs-echobar"
   },
   {
@@ -1253,10 +1253,10 @@
   {
     "name": "jcs-modeline",
     "summary": "A modeline for jcs-emacs",
-    "version": "20260116.2146",
+    "version": "20260128.745",
     "url": "https://github.com/jcs-emacs/jcs-modeline",
     "source": "github",
-    "commit": "7a7306ad9b6b3b3447f363a51f7b82d4b56ec858",
+    "commit": "d550d93efed5e6253a5336b11b6c69075aa346fb",
     "tree": "https://github.com/jcs-emacs/jcs-modeline"
   },
   {
